@@ -1,5 +1,6 @@
 /*ALAN FERNANDO MEJIA ARANDA*/
 /*TAREA #4*/
+/*Se usa mysql*/
 
 CREATE TABLE store (
   store_id INT PRIMARY KEY UNIQUE,
