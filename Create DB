@@ -34,3 +34,7 @@ CREATE TABLE store (
   sales FLOAT
   );
   
+   insert INTO store5 VALUES ('1','Norte','3','monterrey','escobedo','1999-01-01','san juan #300','8184588225')
+  SELECT *
+  FROM store5
+  
